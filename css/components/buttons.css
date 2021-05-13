@@ -1,0 +1,14 @@
+.btn-primary {
+    display: inline-block;
+    background: linear-gradient(45deg, #87adfe, #ff77cd);
+    padding: 16px 36px;
+    border-radius: 50px;
+    color: white;
+    font-weight: normal;
+}
+
+.btn-primary:hover{
+  background: linear-gradient(45deg, #ff77cd, #87adfe)
+  font-weight: bolder;
+  font-size:110%;
+}
